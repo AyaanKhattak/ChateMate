@@ -1,4 +1,4 @@
-#ChatMate 🤖
+**#ChatMate 🤖**
 ChatMate is an AI-powered chatbot designed to provide human-like conversational experiences. Built using Python and the Ollama LLM, ChatMate responds to user queries, maintains conversation context, and adapts its responses to keep interactions natural and meaningful.
 
 Features 🌟
